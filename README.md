@@ -32,6 +32,4 @@
  - A lot of non - compliance count was found related to loan applicant’s verification process.
 
 
-## Contact
-Created by [@githubusername] - feel free to contact me!
 
